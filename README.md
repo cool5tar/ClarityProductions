@@ -1,5 +1,5 @@
 # ClarityProductions™
-Welcome to **Clarity Productions Git-Repo**.
+Welcome to the **Clarity Productions Git-Repo**.
 
 I am a python developer and I love working with it. And so i thought of starting a [**Discord Server**](https://discord.gg/XSnkWZH "ClarityProductions™ Discord"). to help people learning programming and collaborate or just to help people get what they want.
 
